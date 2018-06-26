@@ -1,0 +1,29 @@
+Maja van Put 0843807
+Question: What are the least desirable attributes in a male partner? Does this differ for a female partner?
+
+(1) Least Desirables By Race
+(Category: What do you look for in the opposite sex?)
+We look at the desirables of both genders by race. In this screenshot, the least desirables of male 
+Black/African Americans, European/Caucasian-Americans and Latino/Hispanic Americans is ambitious,
+while for female this is shared interests. This is the opposite for other races (male: shared interests,
+female: ambitious). Only Asian/Pacific Islander/Asian-Americans male and female have both the same
+least desirable attribute (ambitious). So you can generally say the least desirable attributes for a males 
+and females differs.
+
+Note: In Speed Dating data set, Native American is among the races. However, no Native American filled in
+the Speed Dating questionnaire. Therefore, Native Americans are not shown in the plot.
+This is taken care of in the code (not hard coded).
+
+(2) Least Desirables Average
+(Category: What do you think MOST of your fellow men/women look for in the opposite sex?)
+Male think that the least desirable their fellow women look for in the opposite sex is ambitious.
+Female think this is shared interests. There is a difference between both genders in this example.
+
+(3) Least Desirables Percentage
+(Category: How do you think you measure up?)
+Both male and female think their least desirable is the attractiveness. Both genders have the same 
+desirables in this category.
+
+Note: The last two categories in the selectInput ('How do you think you measure up?' and 
+'How do you think others perceive you?') have one attribute less than the first three. This is taken care
+of in the code.
